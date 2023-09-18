@@ -15,8 +15,7 @@ React Calculator is a simple web application built with React JS that provides b
 - HTML5
 - CSS3
 - JavaScript
--
--
+
 
 <img width="1440" alt="react_cal1" src="https://github.com/HasinduUdantha/simple-calculator/assets/98904358/af37133a-0604-49fb-8410-108e93c3dee9">
 <img width="1440" alt="react_cal2" src="https://github.com/HasinduUdantha/simple-calculator/assets/98904358/565b39f6-8612-4772-a379-86734edc3f16">
